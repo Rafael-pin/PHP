@@ -1,0 +1,17 @@
+{
+    "name": "bocolly-pinheiro/cadmercado",
+    "description": "Projeto para o gerenciamento de um mercado",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anderson Bocolly, Rafael Pinheiro",
+            "email": "lizzot@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^3.4@dev",
+        "components/jquery": "dev-master"
+    }
+}
